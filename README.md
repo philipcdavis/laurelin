@@ -1,5 +1,7 @@
+![image](https://user-images.githubusercontent.com/3452573/71550044-5f504100-297c-11ea-89c9-a5154ed773cd.png)
+
 # Laurelin
-A Theme for Terminal
+A Dark Theme for Terminal
 Forked from the [flat terminal](https://github.com/ahmetsulek/flat-terminal) theme.
 
 To Install a Terminal theme on MacOS:
